@@ -1,0 +1,2 @@
+I followed a tutorial to make most of the scripts in this folder. Some of it is a bit above my skill level.
+The dialogue system I have in mind will probably turn into spagetti if I continued trying to code it myself.

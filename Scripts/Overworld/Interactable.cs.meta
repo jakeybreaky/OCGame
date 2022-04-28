@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 23705f0a2444c4448ba653df091d3a0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - showThoughtBubble: {fileID: 11400000, guid: 47a30d5ce49394443bcb30efb299d686,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
